@@ -25,8 +25,11 @@ Sistema gestor CRUD de productos digitalizados que registra los movimientos de l
   Un solo idioma, un solo tema visual simple
 
 # Funcionalidades
-  1.- CRUD de productos por unidad y en grupos filtrados.
-  2.- Registro de movimientos de stock (entrada/salida).
-  3.- Alerta de stock bajo, endpoint que muestre productos bajo un cierto umbral, lógica de negocio.
-  4.- Dashboard simple, para aplicar ETL y manejo de datos.
-  5.- Auth básico. login/registro básico. 
+  1.- Auth básico. login/registro básico.
+  2.- CRUD de productos por unidad y en grupos filtrados.
+  3.- Registro de movimientos de stock (entrada/salida).
+  4.- Alerta de stock bajo, endpoint que muestre productos bajo un cierto umbral, lógica de negocio.
+  5.- Dashboard simple, para aplicar ETL y manejo de datos.
+## Instalación
+
+## Demo
