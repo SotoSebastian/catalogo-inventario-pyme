@@ -15,7 +15,7 @@ return new class extends Migration {
             $table->foreignId('user_id')->constrained()->restrictOnDelete();
             $table->foreignId('product_id')->constrained()->restrictOnDelete();
             $table->string('type');
-            $table->integer('mount');
+            $table->integer('amount');
             $table->string('reason');
             $table->timestamps();
         });
