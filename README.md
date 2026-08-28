@@ -33,3 +33,19 @@ Sistema gestor CRUD de productos digitalizados que registra los movimientos de l
 ## Instalación
 
 ## Demo
+
+## TEST
+Se utiliza Postman para probar el end-to-end al terminar los controladores.
+
+# TEST REGISTER
+<img width="1116" height="807" alt="image" src="https://github.com/user-attachments/assets/db199968-6a7c-424e-acb3-95de8c69d659" />
+<img width="1092" height="785" alt="image" src="https://github.com/user-attachments/assets/7cb292e9-69ec-48df-b4e6-e864bb91c54d" />
+
+# TEST LOGIN
+<img width="1112" height="829" alt="image" src="https://github.com/user-attachments/assets/593335fb-3ad7-4c3c-a18d-c54ec0f80247" />
+
+# TEST ME (obtener datos con token)
+<img width="1096" height="814" alt="image" src="https://github.com/user-attachments/assets/38d5ee6f-0f02-4909-98e3-8532e679572e" />
+
+# TEST LOGOUT
+<img width="1070" height="703" alt="image" src="https://github.com/user-attachments/assets/aba95cdf-2af4-4d9c-988f-8ab9797f46f0" />
