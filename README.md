@@ -49,3 +49,7 @@ Se utiliza Postman para probar el end-to-end al terminar los controladores.
 
 # TEST LOGOUT
 <img width="1070" height="703" alt="image" src="https://github.com/user-attachments/assets/aba95cdf-2af4-4d9c-988f-8ab9797f46f0" />
+
+## Roadmap futuro
+- Migrar autenticación de localStorage a cookies httpOnly para mayor seguridad (mitigar riesgo XSS)
+- Sistema de tags/categorías múltiples para mejorar recomendaciones y búsqueda
